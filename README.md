@@ -28,3 +28,15 @@ SHA-256. Aplikasi ini berguna untuk memastikan bahwa file tidak dimodifikasi sel
 ✅ Struktur folder rapi (data/saved_hashes/).
 ✅ Logika aplikasi sudah jalan stabil.
 
+
+🛡Struktur Aplikasi HashGuard🛡
+
+HashGuard/
+│
+├── data/               # Folder untuk menyimpan file hash
+    └── saved_hashes
+├── img/                # Folder untuk menyimpan gambar background dan lainnya
+    └── bg2.jpg     
+├── hash_util.py        # utilitas yang digunakan untuk meng-generate checksum file
+├── main.py             # aplikasi
+
