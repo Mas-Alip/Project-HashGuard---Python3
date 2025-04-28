@@ -1,0 +1,10 @@
+Struktur Aplikasi HashGuard
+
+HashGuard/
+│
+├── data/               # Folder untuk menyimpan file hash
+    └── saved_hashes
+├── img/                # Folder untuk menyimpan gambar background dan lainnya
+    └── bg2.jpg     
+├── hash_util.py        # utilitas yang digunakan untuk meng-generate checksum file
+├── main.py             # aplikasi
