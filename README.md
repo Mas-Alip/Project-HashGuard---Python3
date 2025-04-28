@@ -5,22 +5,22 @@ SHA-256. Aplikasi ini berguna untuk memastikan bahwa file tidak dimodifikasi sel
 
 📜 Flow Lengkap HashGuard
 1. Generate Checksum
-    -Pilih dokumen.
-    -Generate hash SHA-256.
-    -Simpan hash ke file .txt di folder data/saved_hashes/.
+   - Pilih dokumen.
+   - Generate hash SHA-256.
+   - Simpan hash ke file .txt di folder data/saved_hashes/.
 
 2. Verifikasi Dokumen
-    -Pilih dokumen yang ingin dicek.
-    -Pilih file hash .txt.
-    -Bandingkan hash dokumen dan hash dari file.
+   - Pilih dokumen yang ingin dicek.
+   - Pilih file hash .txt.
+   - Bandingkan hash dokumen dan hash dari file.
 
 3. Tampilkan hasil:
    - ✅ Cocok ➔ Dokumen ASLI.
    - ❌ Tidak cocok ➔ Dokumen SUDAH BERUBAH.
 
 4. Lihat Riwayat Hash
-    - Klik "Lihat Riwayat Hash".
-    - Tampilkan semua hash yang pernah disimpan ke layar.
+   - Klik "Lihat Riwayat Hash".
+   - Tampilkan semua hash yang pernah disimpan ke layar.
 
 🔥 Yang Sudah Selesai:
 ✅ Coding fitur utama.
