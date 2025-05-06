@@ -3,6 +3,20 @@ Projek ini adalah tugas mata kuliah kriptografi.
 HashGuard adalah aplikasi desktop untuk menghasilkan dan memverifikasi checksum file menggunakan algoritma
 SHA-256. Aplikasi ini berguna untuk memastikan bahwa file tidak dimodifikasi selama pengiriman atau penyimpanan
 
+Sebelum menjalankan aplikasi, anda harus terlebih dahulu menyiapkan alat tempurnya ya gaes
+1. Aplikasi Python versi terbaru. Download disini https://www.python.org/
+2. Pastikan di komputer kalian mempunyai pip versi terbaru. Gunanya adalah perintah untuk menginstall package python yang dibutuhkan saat menjalankan aplikasi.
+   Caranya ada disini https://pip.pypa.io/en/stable/installation/.
+3. Jika alat tempurnya sudah, silahkan download source code HashGuard ini di komputer kalian, kemudian jalankan.
+
+
+Package yang perlu di install
+1. Pillow => pip install Pillow
+2. Tkinter => pip install tkinter
+3. hashlib
+Biasanya sih yang nomor 2 sama 3 akan otomatis keinstall ketika sudah memasang python.😁😁
+
+
 📜 Flow Lengkap HashGuard
 1. Generate Checksum
    - Pilih dokumen.
