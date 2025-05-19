@@ -1,5 +1,10 @@
 # Project-HashGuard---Python3
 Projek ini adalah tugas mata kuliah kriptografi.
+Dikerjakan bersama oleh 3 orang :
+1. Alif
+2. Tegar
+3. Devina
+   
 HashGuard adalah aplikasi desktop untuk menghasilkan dan memverifikasi checksum file menggunakan algoritma
 SHA-256. Aplikasi ini berguna untuk memastikan bahwa file tidak dimodifikasi selama pengiriman atau penyimpanan
 
